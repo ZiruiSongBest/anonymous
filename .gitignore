@@ -1,0 +1,4 @@
+dataset/*
+model/*
+qwen-vl-finetune/output_physx_fullft/*
+qwen-vl-finetune/output_physx_lora/*

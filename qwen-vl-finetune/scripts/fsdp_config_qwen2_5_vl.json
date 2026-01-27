@@ -1,0 +1,7 @@
+{
+  "use_orig_params": false,
+  "transformer_layer_cls_to_wrap": [
+    "Qwen2_5_VLDecoderLayer",
+    "Qwen2_5_VLVisionBlock"
+  ]
+}
