@@ -28,7 +28,7 @@ Run the installation script:
 . ./setup.sh --new-env --basic --xformers --flash-attn --diffoctreerast --spconv --mipgaussian --kaolin --nvdiffrast
 ```
 
-## Data
+## Dataset
 
 Download the dataset `3DAffordData` and unzip to `./dataset`:
 
@@ -74,5 +74,4 @@ Run training with:
 ```
 chmod +x train.sh
 ./train.sh
-```<center><h1>  Sim-3DAfford </h1>  </center>
 ```
